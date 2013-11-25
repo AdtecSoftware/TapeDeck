@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck", "TapeDeck\Adtec.TapeDeck.csproj", "{620DCF94-9C04-4CBC-BD6F-2A3C4138C773}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck", "Adtec.TapeDeck\Adtec.TapeDeck.csproj", "{620DCF94-9C04-4CBC-BD6F-2A3C4138C773}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck.UnitTests", "Adtec.TapeDeck.UnitTests\Adtec.TapeDeck.UnitTests.csproj", "{3EF697CF-E7B3-4A15-88E6-375313751E4B}"
 EndProject
