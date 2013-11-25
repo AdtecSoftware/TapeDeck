@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck", "Adtec.Tap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck.UnitTests", "Adtec.TapeDeck.UnitTests\Adtec.TapeDeck.UnitTests.csproj", "{3EF697CF-E7B3-4A15-88E6-375313751E4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adtec.TapeDeck.IntegrationTests", "Adtec.TapeDeck.IntegrationTests\Adtec.TapeDeck.IntegrationTests.csproj", "{95190EBA-AFB9-48D0-BA1A-6FEB72EC4867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{3EF697CF-E7B3-4A15-88E6-375313751E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF697CF-E7B3-4A15-88E6-375313751E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF697CF-E7B3-4A15-88E6-375313751E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95190EBA-AFB9-48D0-BA1A-6FEB72EC4867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95190EBA-AFB9-48D0-BA1A-6FEB72EC4867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95190EBA-AFB9-48D0-BA1A-6FEB72EC4867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95190EBA-AFB9-48D0-BA1A-6FEB72EC4867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
